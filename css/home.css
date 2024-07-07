@@ -48,7 +48,7 @@ html body div.main div.grid a h2 {
 
 html body div.main div.grid {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto;
 }
 
 html body div.main a img {
