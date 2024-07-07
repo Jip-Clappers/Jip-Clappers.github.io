@@ -52,16 +52,15 @@ html body div.main div.grid {
 }
 
 html body div.main a img {
-  border: 5px #24a1da solid;
-  border-radius: 25px;
+  border: 0.5vw #24a1da solid;
+  border-radius: 5vw;
   width: 100%;
   display: block;
 }
 
 html body div.main a {
   margin: auto;
-  border-radius: 25px;
-  width: 30vw;
+  width: 65vw;
   text-align: center;
   color: #24a1da;
   text-decoration: none;
