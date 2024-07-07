@@ -37,13 +37,13 @@ html body div.main h1 {
   color: #24a1da;
   text-align: center;
   margin-bottom: 5%;
-  font-size: 4vw;
+  font-size: 7vw;
 }
 
 html body div.main div.grid a h2 {
   font-weight: bolder;
   margin: 0;
-  font-size: 2vw;
+  font-size: 5vw;
 }
 
 html body div.main div.grid {
