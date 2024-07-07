@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body,
+header {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  border: 0;
+}
+
+html body {
+  background-color: #eeee;
+}
+
+html body header {
+  height: 10% !important;
+  background-color: #24a1da;
+}
+
+html body header a img {
+  padding: 1vh 0 1vh 1vh;
+  height: 80%;
+}
+
+html body div.main {
+  background-color: white !important;
+  margin: 5%;
+  padding: 5%;
+  box-shadow: 15px 15px 15px grey;
+}
+
+html body div.main h1 {
+  color: #24a1da;
+  text-align: center;
+  margin-bottom: 5%;
+  font-size: 4vw;
+}
+
+html body div.main div.grid a h2 {
+  font-weight: bolder;
+  margin: 0;
+  font-size: 2vw;
+}
+
+html body div.main div.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+html body div.main a img {
+  border: 5px #24a1da solid;
+  border-radius: 25px;
+  width: 100%;
+  display: block;
+}
+
+html body div.main a {
+  margin: auto;
+  border-radius: 25px;
+  width: 30vw;
+  text-align: center;
+  color: #24a1da;
+  text-decoration: none;
+}
+
+html body div.main a.offset {
+  margin-top: 15%;
+}
+
+html body div.main a img:hover {
+  opacity: 0.3;
+}
