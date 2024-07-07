@@ -53,7 +53,7 @@ html body div.main div.grid {
 
 html body div.main a img {
   border: 1vw #24a1da solid;
-  border-radius: 5vw;
+  border-radius: 10vw;
   width: 100%;
   display: block;
 }
