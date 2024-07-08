@@ -1,0 +1,6 @@
+html body div.main div.grid a h2 {
+  border: 1vw #24a1da solid;
+  border-radius: 15vw;
+  background-color: #eeee;
+  padding: 5%;
+}

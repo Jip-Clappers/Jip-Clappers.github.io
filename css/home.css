@@ -64,10 +64,11 @@ html body div.main a {
   text-align: center;
   color: #24a1da;
   text-decoration: none;
+  margin-top: 15% !important;
 }
 
-html body div.main a.offset {
-  margin-top: 15%;
+html body div.main a.bovenste {
+  margin-top: 0;
 }
 
 html body div.main a img:hover {
