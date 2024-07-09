@@ -40,7 +40,7 @@ html body div.main h1 {
   font-size: 7vw;
 }
 
-html body div.main div.grid a h2 {
+html body div.main div.grid h2 {
   font-weight: bolder;
   margin: 0;
   font-size: 5vw;
@@ -52,17 +52,21 @@ html body div.main div.grid {
 }
 
 html body div.main a img {
-  border: 1vw #24a1da solid;
+  border: 1vw rgb(36, 161, 219) solid;
   border-radius: 15vw;
   width: 100%;
   display: block;
 }
 
+html body div.main a,
+html body div.main div.grid h2 {
+  text-align: center;
+  color: #24a1da;
+}
+
 html body div.main a {
   margin: auto;
   width: 65vw;
-  text-align: center;
-  color: #24a1da;
   text-decoration: none;
   margin-top: 15% !important;
 }
